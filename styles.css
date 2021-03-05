@@ -1,0 +1,68 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(231, 223, 221);
+}
+#avatar{
+    width: 200px;
+    height: 200px;
+    border: 3px solid #000000;
+    border-radius: 100px;
+    
+    
+}
+.caixa{
+	position: relative;
+    margin: 0 auto;
+    text-align: center;
+    background: url("barra.jpeg");
+    color: #000000;
+    
+}
+
+.caixa h2{
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+    
+    }
+.caixa h3{
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+
+}
+.Post{
+    background-color: #ffffff;
+    padding: 10px;
+    border: 3px solid #000000;
+    display: inline;
+}
+.post h3{
+    font-size: 30px;
+    text-align: center;
+   
+}
+nav h3{
+    font-size: 30px;
+    text-align: center;
+}
+nav a{
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 20px;
+	text-decoration: none;
+
+}
+
+nav a:hover{ 
+	color: #CCCCCC;
+	text-decoration: underline;
+ }
+ footer{
+    text-align: center;
+    background: url("rodape-avatar-1.jpeg");
+	padding: 120px 0;
+
+}
